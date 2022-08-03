@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1659490974 source:c:\users\ronge\documents\simle calculator\main.c
+	<stdio.h>
+	<stdlib.h>
+
